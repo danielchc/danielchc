@@ -1,7 +1,7 @@
 # danielchc
 
 <p align="center">
-<img src="https://c.tenor.com/FfHozmky4I0AAAAd/simpsons-leaving.gif">
+<img src="https://media.tenor.com/lyeMUGsh-7UAAAAd/water-monkey.gif">
 </p>
 <div align="center" style="margin-top: 50px;">
     <img
